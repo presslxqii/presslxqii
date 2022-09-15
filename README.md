@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning RxJs
 - 📫 How to reach me i@mberdnikov.ru
 
-![](https://github.com/presslxqii/presslxqii/blob/main/cat.gif)
+![](https://github.com/presslxqii/presslxqii/blob/main/parrot.gif)
